@@ -1,5 +1,5 @@
 title: ClassBench-ng
-description: A tool for generation of synthetic classification rule sets for benchmarking.
+description: Synthetic classification rule sets generator.
 # show_downloads: true
 # google_analytics:
 theme: jekyll-theme-tactile
