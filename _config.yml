@@ -1,5 +1,5 @@
+theme: jekyll-theme-tactile
 title: ClassBench-ng
 description: Synthetic classification rule sets generator.
-# show_downloads: true
+show_downloads: true
 # google_analytics:
-theme: jekyll-theme-tactile
