@@ -341,13 +341,19 @@ footer a:hover {
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
 
-.navigation_bar a {
-  float: left;
-  display: block;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+.navigation_bar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
+
+//.navigation_bar a {
+//  float: left;
+//  display: block;
+//  text-align: center;
+//  padding: 14px 16px;
+//  text-decoration: none;
+//}
 
 //.navigation_bar li a:hover {
 //  background-color: #111;
