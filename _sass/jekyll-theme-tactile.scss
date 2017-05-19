@@ -341,8 +341,8 @@ footer a:hover {
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
 
+// from "Jason Rudolph" found at https://github.com/jekyll/jekyll/wiki/sites
 .navigation_bar {
-  border-bottom: 3px solid rgba(#000, .03);
   display: none;
   list-style: none;
   margin: 0 -20px 28px;
