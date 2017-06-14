@@ -1,8 +1,7 @@
 ---
 layout: my_default
+title: Team
 ---
-
-# Team
 
 ## Brno University of Technology
 

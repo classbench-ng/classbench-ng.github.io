@@ -32,10 +32,22 @@
 	  {% endif %}
         </section>
 	<section id="pages" class="clearfix">
-	  <ul>
-	    <li><a href="index" id="nav-about">About</a></li>
-	    <li><a href="team" id="nav-team">Team</a></li>
-	    <li><a href="links" id="nav-links">Links</a></li>
+	  <ul class="navigation">
+            {% if page.title == "About" %}
+              <li class="navigation"><a href="index" class="navigation active">About</a></li>
+            {% else %}
+              <li class="navigation"><a href="index" class="navigation">About</a></li>
+            {% endif %}
+            {% if page.title == "Team" %}
+              <li class="navigation"><a href="team" class="navigation active">Team</a></li>
+            {% else %}
+              <li class="navigation"><a href="team" class="navigation">Team</a></li>
+            {% endif %}
+            {% if page.title == "Links" %}
+              <li class="navigation"><a href="links" class="navigation active">Links</a></li>
+            {% else %}
+              <li class="navigation"><a href="links" class="navigation">Links</a></li>
+            {% endif %}
 	  </ul>
 	</section>
         <hr>

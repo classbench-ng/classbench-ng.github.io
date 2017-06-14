@@ -1,8 +1,7 @@
 ---
 layout: my_default
+title: Links
 ---
-
-# Links
 
 ## Tools
 
