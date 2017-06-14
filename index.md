@@ -15,11 +15,12 @@ For instructions on how to install and use ClassBench-ng, please refer to README
 
 ## Publications
 
-J. Matoušek, G. Antichi, A. Lučanský, A. W. Moore, J. Kořenek. [**ClassBench-ng: Recasting ClassBench After a Decade of Network Evolution**](http://dl.acm.org/citation.cfm?id=3101101). In *2017 ACM/IEEE Symposium on Architectures for Networking and Communications*. IEEE CS, 2017, pp. 204-216. ([slides]({{ site.baseurl }}/presentation.pdf), [extended slides]({{ site.baseurl }}/presentation_extended.pdf))
+J. Matoušek, G. Antichi, A. Lučanský, A. W. Moore, J. Kořenek. [ClassBench-ng: Recasting ClassBench After a Decade of Network Evolution](http://dl.acm.org/citation.cfm?id=3101101). In *2017 ACM/IEEE Symposium on Architectures for Networking and Communications*. IEEE CS, 2017, pp. 204-216. ([slides]({{ site.baseurl }}/presentation.pdf), [extended slides]({{ site.baseurl }}/presentation_extended.pdf))
 
 ## Ancknowledgments
 
 Development of ClassBench-ng was supported by:
+
 - European Union's Horizon 2020 research and innovation programme 2014-2018
   - SSICLOPS (grant agreement No. 644866)
   - ENDEAVOUR (grant agreement No. 644960)
