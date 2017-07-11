@@ -32,4 +32,4 @@ After return of Jiří Matoušek to [Faculty of Information Technology, Brno Uni
 
 ## 10/2014 ClassBench-ng Project Started
 
-The Class-Bench-ng project started during visit of Jiří Matoušek at [Computer Laboratory, University of Cambridge](http://www.cl.cam.ac.uk/) (10-12/2014). The original idea of extending the ClassBench tool came from Andrew W. Moore. From the very beginning, also Gianni Antichi was a core member of the team.
+The ClassBench-ng project started during visit of Jiří Matoušek at [Computer Laboratory, University of Cambridge](http://www.cl.cam.ac.uk/) (10-12/2014). The original idea of extending the ClassBench tool came from Andrew W. Moore. From the very beginning, also Gianni Antichi was a core member of the team.
