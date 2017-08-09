@@ -48,6 +48,11 @@
             {% else %}
               <li class="navigation"><a href="team" class="navigation">Team</a></li>
             {% endif %}
+            {% if page.title == "Contribution" %}
+              <li class="navigation"><a href="contribution" class="navigation active">Contribution</a></li>
+            {% else %}
+              <li class="navigation"><a href="contribution" class="navigation">Contribution</a></li>
+            {% endif %}
             {% if page.title == "Links" %}
               <li class="navigation"><a href="links" class="navigation active">Links</a></li>
             {% else %}
