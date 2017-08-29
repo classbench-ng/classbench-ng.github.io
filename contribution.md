@@ -17,4 +17,3 @@ Contributions can be submitted via:
 - extension/reimplementation of original ClassBench's trace generator according to ClassBench-ng features (IPv4/IPv6 5-tuples, OpenFlow rules)
 - support for alternative input formats in ClassBench-ng analyser
 - alternative (more precise) implementation of IPv4/IPv6 prefixes generation
-- testing and fixing ClassBench-ng on various operating systems

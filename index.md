@@ -27,3 +27,7 @@ Development of ClassBench-ng was supported by:
 - The Ministry of Education, Youth and Sports of the Czech Republic
   - CESNET E-infrastructure (project No. LM2015042)
   - National Programme of Sustainability (NPU II) (project IT4Innovations excellence in science - LQ1602)
+
+External contributors:
+
+- Salvatore Pontarelli (University of Rome Tor Vergata)
