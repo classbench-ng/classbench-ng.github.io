@@ -16,4 +16,5 @@ Contributions can be submitted via:
 - seeds (especially OpenFlow) extracted from real rule sets (e.g., using ClassBench-ng analyser)
 - extension/reimplementation of original ClassBench's trace generator according to ClassBench-ng features (IPv4/IPv6 5-tuples, OpenFlow rules)
 - support for alternative input formats in ClassBench-ng analyser
+- support for OpenFlow 1.3
 - alternative (more precise) implementation of IPv4/IPv6 prefixes generation
